@@ -10,13 +10,13 @@ const baseSpeed = 0.1;
 const rangeSpeed = 2;
 const baseRadius = 1;
 const rangeRadius = 4;
-const baseHue = 220;
-const rangeHue = 100;
+const baseHue = 36;
+const rangeHue = 10;
 const noiseSteps = 80;
 const xOff = 0.00125;
 const yOff = 0.00125;
 const zOff = 0.0005;
-const backgroundColor = 'hsla(260,40%,5%,1)';
+const backgroundColor = 'hsla(36,100%,30%,1)';
 
 let container;
 let canvas;

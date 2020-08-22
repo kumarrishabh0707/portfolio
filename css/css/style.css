@@ -143,7 +143,7 @@ a {
     color: #fff;
     font-weight: 700; }
     .unslate_co--site-nav .unslate_co--site-logo span {
-      color: #D63447; }
+      color: #FF9800; }
   .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul-none-onepage {
     text-align: center; }
     .unslate_co--site-nav .site-nav-ul, .unslate_co--site-nav .site-nav-ul > li, .unslate_co--site-nav .site-nav-ul-none-onepage, .unslate_co--site-nav .site-nav-ul-none-onepage > li {
@@ -382,11 +382,11 @@ a {
           display: block;
           color: #000; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a:hover, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:hover {
-            color: #D63447; }
+            color: #FF9800; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:before {
             background: #fff; }
           .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-            color: #D63447; }
+            color: #FF9800; }
             .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
               background: #fff; }
     .unslate_co--site-nav.scrolled.awake {
@@ -463,7 +463,7 @@ a {
       padding-right: 20px;
       color: #000; }
       .unslate_co--site-mobile-menu ul a:hover, .unslate_co--site-mobile-menu ul li a:hover {
-        color: #D63447; }
+        color: #FF9800; }
   .unslate_co--site-mobile-menu ul > li > ul > li > a {
     position: relative;
     padding-left: 30px;
@@ -961,7 +961,7 @@ figure.dotted-bg {
     font-size: 69px;
     font-weight: 900;
     font-family: "Arimo", sans-serif;
-    color: #D63447; }
+    color: #FF9800; }
   .counter-v1 .number-wrap .append-text {
     position: relative;
     top: -30px;
@@ -1276,7 +1276,7 @@ figure.dotted-bg {
       font-family: "Raleway", sans-serif;
       color: #fff; }
       .unslate_co--footer .footer-site-logo a span {
-        color: #D63447; }
+        color: #FF9800; }
   .unslate_co--footer .footer-site-social {
     padding: 0;
     margin: 0;
@@ -1480,7 +1480,7 @@ span.error {
 
 .gsap-reveal {
   display: block;
-  border: 1px solid red;
+  border: 1px solid #FF9800;
   position: relative; }
   .gsap-reveal .cover {
     position: absolute;
@@ -1490,5 +1490,5 @@ span.error {
     bottom: 0;
     width: 100%;
     height: 100%;
-    border: 1px solid red;
+    border: 1px solid #FF9800;
     background: #000; }
