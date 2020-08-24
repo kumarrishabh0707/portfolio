@@ -191,7 +191,7 @@
             Object.assign(this.style, options.style);
 
             this.material = new Material(options.type, options);
-            this.text = new Blotter.Text(this.DOM.textEl.innerHTML, this.style);
+            this.text = new Blotter.Text("ऋषभ", this.style);
             this.blotter = new Blotter(this.material, {texts: this.text});
             this.scope = this.blotter.forText(this.text);
             this.DOM.el.removeChild(this.DOM.textEl);
