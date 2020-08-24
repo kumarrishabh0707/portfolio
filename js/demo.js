@@ -186,7 +186,7 @@
                 paddingRight: 40,
                 paddingTop: 40,
                 paddingBottom: 40,
-                fill : "#c69f64"
+                fill : "#FF9800"
             };
             Object.assign(this.style, options.style);
 
