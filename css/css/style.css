@@ -37,6 +37,10 @@ body, .unslate_co--site-inner {
   background: #020202 !important;
   color: #fff; }
 
+.unslate_co--site-wrap{
+  background-color: black;
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
