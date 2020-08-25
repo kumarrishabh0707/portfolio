@@ -8,6 +8,11 @@ body {
   position: relative;
 }
 
+.subtitletext{
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+}
+
 body:before {
   content: "";
   position: absolute;
@@ -514,7 +519,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:hover, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:hover {
-  color: #D63447;
+  color: #FF9800;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a:before {
@@ -522,7 +527,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-  color: #D63447;
+  color: #FF9800;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
