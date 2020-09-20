@@ -290,7 +290,7 @@ a:focus {
 		pointer-events: auto;
 	}
 	.content {
-		height: 50vh;
+		height: 20vh;
 		justify-content: center;
 	}
 	.grid {
