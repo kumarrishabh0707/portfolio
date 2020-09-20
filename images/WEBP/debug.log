@@ -64,3 +64,7 @@
 [0827/122724.117:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0827/122729.121:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
 [0827/122734.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0902/165422.497:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0902/170529.485:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0902/193409.899:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0902/223733.722:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
